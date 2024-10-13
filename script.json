@@ -1,21 +1,21 @@
 [
   {
-    "game": "galaxfa"
+    "game": "galaxfa",
     "id": "15045889216",
     "script": "https://raw.githubusercontent.com/Hugodubois1/ToolNukee/refs/heads/main/Galax.txt"
   },
   {
-    "game": "galaxwl"
+    "game": "galaxwl",
     "id": "6651558027",
     "script": "https://raw.githubusercontent.com/Hugodubois1/ToolNukee/refs/heads/main/Galax.txt"
   },
   {
-    "game": "roxville"
+    "game": "roxville",
     "id": "9562985082",
     "script": "https://raw.githubusercontent.com/Hugodubois1/ToolNukee/refs/heads/main/Roxville.txt"
   },
   {
-    "game": "noweye"
+    "game": "noweye",
     "id": "11797718502",
     "script": "https://raw.githubusercontent.com/Hugodubois1/ToolNukee/refs/heads/main/Noweye.txt"
   }

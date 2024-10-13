@@ -1,16 +1,18 @@
-{
-  "id": "15045889216"
-  "script": "https://raw.githubusercontent.com/Hugodubois1/ToolNukee/refs/heads/main/Galax.txt"
-}
-{
-  "id": "6651558027"
-  "script": "https://raw.githubusercontent.com/Hugodubois1/ToolNukee/refs/heads/main/Galax.txt"
-}
-{
-  "id": "9562985082"
-  "script": "https://raw.githubusercontent.com/Hugodubois1/ToolNukee/refs/heads/main/Roxville.txt"
-}
-{
-  "id": "11797718502"
-  "script": "https://raw.githubusercontent.com/Hugodubois1/ToolNukee/refs/heads/main/Noweye.txt"
-}
+[
+  {
+    "id": "15045889216",
+    "script": "https://raw.githubusercontent.com/Hugodubois1/ToolNukee/refs/heads/main/Galax.txt"
+  },
+  {
+    "id": "6651558027",
+    "script": "https://raw.githubusercontent.com/Hugodubois1/ToolNukee/refs/heads/main/Galax.txt"
+  },
+  {
+    "id": "9562985082",
+    "script": "https://raw.githubusercontent.com/Hugodubois1/ToolNukee/refs/heads/main/Roxville.txt"
+  },
+  {
+    "id": "11797718502",
+    "script": "https://raw.githubusercontent.com/Hugodubois1/ToolNukee/refs/heads/main/Noweye.txt"
+  }
+]

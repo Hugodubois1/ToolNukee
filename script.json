@@ -1,14 +1,18 @@
 {
-  "roxville": {
+  "9562985082": {
+    "game": "roxville",
     "script": "https://raw.githubusercontent.com/Hugodubois1/ToolNukee/refs/heads/main/Roxville.txt"
   },
-  "galaxfa": {
+  "15045889216": {
+    "game": "galaxfa",
     "script": "https://raw.githubusercontent.com/Hugodubois1/ToolNukee/refs/heads/main/Galax.txt"
   },
-  "galaxwl": {
+  "6651558027": {
+    "game": "galaxwl",
     "script": "https://raw.githubusercontent.com/Hugodubois1/ToolNukee/refs/heads/main/Galax.txt"
   },
-  "noweye": {
+  "11797718502": {
+    "game": "noweye",
     "script": "https://raw.githubusercontent.com/Hugodubois1/ToolNukee/refs/heads/main/Noweye.txt"
   }
 }
